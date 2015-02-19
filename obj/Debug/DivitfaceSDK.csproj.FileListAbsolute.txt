@@ -1,0 +1,12 @@
+c:\users\tarbil\documents\visual studio 2013\Projects\DivitfaceSDK\DivitfaceSDK\bin\Debug\DivitfaceSDK.dll
+c:\users\tarbil\documents\visual studio 2013\Projects\DivitfaceSDK\DivitfaceSDK\bin\Debug\DivitfaceSDK.pdb
+c:\users\tarbil\documents\visual studio 2013\Projects\DivitfaceSDK\DivitfaceSDK\bin\Debug\MongoDB.Bson.dll
+c:\users\tarbil\documents\visual studio 2013\Projects\DivitfaceSDK\DivitfaceSDK\bin\Debug\MongoDB.Driver.dll
+c:\users\tarbil\documents\visual studio 2013\Projects\DivitfaceSDK\DivitfaceSDK\bin\Debug\Newtonsoft.Json.dll
+c:\users\tarbil\documents\visual studio 2013\Projects\DivitfaceSDK\DivitfaceSDK\bin\Debug\RestSharp.dll
+c:\users\tarbil\documents\visual studio 2013\Projects\DivitfaceSDK\DivitfaceSDK\bin\Debug\MongoDB.Bson.xml
+c:\users\tarbil\documents\visual studio 2013\Projects\DivitfaceSDK\DivitfaceSDK\bin\Debug\MongoDB.Driver.xml
+c:\users\tarbil\documents\visual studio 2013\Projects\DivitfaceSDK\DivitfaceSDK\bin\Debug\Newtonsoft.Json.xml
+c:\users\tarbil\documents\visual studio 2013\Projects\DivitfaceSDK\DivitfaceSDK\bin\Debug\RestSharp.xml
+c:\users\tarbil\documents\visual studio 2013\Projects\DivitfaceSDK\DivitfaceSDK\obj\Debug\DivitfaceSDK.dll
+c:\users\tarbil\documents\visual studio 2013\Projects\DivitfaceSDK\DivitfaceSDK\obj\Debug\DivitfaceSDK.pdb
